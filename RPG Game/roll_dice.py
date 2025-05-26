@@ -76,7 +76,7 @@ class DiceApp:
 
         self.encounters_list = [
             "1: Nothing happens here dummy",
-            "2: Time-Warp Ruins. 1-5 nothing happens, 6-10 1 damage, 11-15 nothing happens, 16-20 heal 10",
+            "2: Time-Warp Ruins. 1-5 something happens, 6-10 1 damage, 11-15 nothing happens, 16-20 heal 10",
             "3: You find a hidden passage leading to a secret room. 1-5 trap roll d10 for damage, 6-15 nothing, 16-20 treasure",
             "4: Skeleton Warrior Rise. HP: 5, Strength: 2, Defense: 0, Dexterity: 0",
             "5: Bandit Roadblock. 1-10 fight, 11-20 scare them off. HP: 10, Strength: 2, Defense: 1, Dexterity: 1",
